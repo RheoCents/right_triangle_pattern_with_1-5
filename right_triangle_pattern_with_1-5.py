@@ -6,7 +6,7 @@
 #5 5 5 5 5
 print('For this, we will print a figure of right triangle using the print function and numbers 1-5')
 for number_value in range(6):
-    print('\n')
+    print('')
     for _ in range(number_value):
         print (number_value, end=" ") 
 
